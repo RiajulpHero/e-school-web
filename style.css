@@ -74,7 +74,7 @@ p{
      text-align: center;
      font-weight: 700;
  } 
- .card {
+ .shadow {
     border:none;
     border-radius: .5rem;
     padding-left: 10px;
@@ -117,4 +117,7 @@ p{
 }
 .container-black p, h5{
     color: #FFFFFF;
+}
+.card-title{
+    color: black;
 }
